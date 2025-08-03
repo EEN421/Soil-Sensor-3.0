@@ -1,2 +1,2 @@
 
-![](/Dashboard.png)
+![](/dashboard.png)
